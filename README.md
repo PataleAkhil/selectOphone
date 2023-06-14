@@ -21,3 +21,6 @@ You can check out a live demo of Select'O Phone [here](https://selectophone.stre
 - [Scikit-learn](https://scikit-learn.org/): Machine learning library for data preprocessing.
 - [Streamlit](https://streamlit.io/): Python library for building interactive web applications.
 - [Streamlit share](https://share.streamlit.io/): Platform for deploying built web applications.
+
+## License
+This project is licensed under the [GNU General Public License (GPL)](https://www.gnu.org/licenses/gpl-3.0.en.html).
